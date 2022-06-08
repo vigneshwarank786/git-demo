@@ -1,5 +1,5 @@
-function input(value){
-    var myvalue=typeof value
+function input(values){
+    var myvalue=typeof values
     return myvalue; 
 }
 
